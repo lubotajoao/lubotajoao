@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working at [Saint-Gobain do Brasil](https://www.saint-gobain.com.br/).
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS, Elixir, ReactJS, React Native.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS, ReactJS, React Native & Python.
 
 - 👨‍💻 All of my projects are available at [lubotajoao](https://github.com/lubotajoao?tab=repositories).
 
-- 📫 How to reach me **lubota4@gmail.com**
+<!-- - 📫 How to reach me **lubota4@gmail.com** -->
 
 <!--- ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat) -->
 
