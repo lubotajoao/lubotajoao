@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Saint-Gobain do Brasil](https://www.saint-gobain.com.br/).
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS, ReactJS, React Native & Python.
+- 🌱 I’m currently learning Web Development.
 
 - 👨‍💻 All of my projects are available at [lubotajoao](https://github.com/lubotajoao?tab=repositories).
 
