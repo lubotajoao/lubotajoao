@@ -2,9 +2,7 @@
 <h3 align="center">A RPA Developer and FullStack Developer Student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubotajoao" alt="lubotajoao" /> </p>
 
-- 🔭 I’m currently working at [Saint-Gobain do Brasil](https://www.saint-gobain.com.br/).
-
-- 🌱 I’m currently learning Web Development.
+- 🔭 I’m currently working as RPA Developer, using Automation Anwyehre A360, Python & Excel.
 
 - 👨‍💻 All of my projects are available at [lubotajoao](https://github.com/lubotajoao?tab=repositories).
 
